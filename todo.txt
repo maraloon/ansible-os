@@ -1,0 +1,7 @@
+install
+nvim tmux ...
+
+
+
+openvpn
+move openvpn-client.conf to `/etc/openvpn/client/client.conf`
