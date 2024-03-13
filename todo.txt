@@ -5,3 +5,7 @@ nvim tmux ...
 
 openvpn
 move openvpn-client.conf to `/etc/openvpn/client/client.conf`
+
+intelephence
+    install
+    license
